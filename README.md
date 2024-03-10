@@ -1,5 +1,7 @@
 # ML_Competition
 
+### 112 10 CS 460100 Introduction to Artificial Intelligence Competition
+
 ### Kaggle Ranking: 6/38
 
 ### Data contents
